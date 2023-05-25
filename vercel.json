@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/sendmail/william@vercel.com",
+      "schedule": "0 3 * * *"
+    }
+  ]
+}
